@@ -22,7 +22,7 @@ I loaded the cleaned file into a table and wrote queries for 6 questions. All qu
 **3. Dashboard in Tableau**
 Made a dashboard from the cleaned CSV with 3 KPIs (total appointments, no-show rate, average lead time) and 3 charts (by day of week, by lead time, and top 15 neighbourhoods).
 
-![Healthcare Appointment No-Show Dashboard](dashboard/dashboard_Dashboard.png)
+![Healthcare Appointment No-Show Dashboard](Dashboard.png)
 
 ## Key Findings
 
